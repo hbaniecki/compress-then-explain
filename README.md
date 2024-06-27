@@ -1,8 +1,8 @@
 # Efficient and Accurate Explanation Estimation with Distribution Compression
 
-This repository is a supplement to the following paper:
+This repository is a supplement to [the following paper](https://arxiv.org/abs/2406.18334):
 
-> Hubert Baniecki, Giuseppe Casalicchio, Bernd Bischl, Przemyslaw Biecek. *Efficient and Accurate Explanation Estimation with Distribution Compression*. **ICML 2024 Workshop on DMLR**
+> Hubert Baniecki, Giuseppe Casalicchio, Bernd Bischl, Przemyslaw Biecek. *Efficient and Accurate Explanation Estimation with Distribution Compression*. **ICML 2024 Workshop on DMLR** https://arxiv.org/abs/2406.18334
 
 ![](images/fig1.png)
 
