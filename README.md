@@ -1,16 +1,16 @@
-# Efficient and Accurate Explanation Estimation with Distribution Compression
+# Efficient and accurate explanation estimation with distribution compression
 
 This repository is a supplement to [the following paper](https://arxiv.org/abs/2406.18334):
 
-> Hubert Baniecki, Giuseppe Casalicchio, Bernd Bischl, Przemyslaw Biecek. *Efficient and Accurate Explanation Estimation with Distribution Compression*. **ICML 2024 Workshop on DMLR** https://arxiv.org/abs/2406.18334
+> Hubert Baniecki, Giuseppe Casalicchio, Bernd Bischl, Przemyslaw Biecek. *Efficient and Accurate Explanation Estimation with Distribution Compression*. **ICLR 2025** https://arxiv.org/abs/2406.18334
 
 ![](images/fig1.png)
 
 ### Start: examples
 
-In `examples`, we provide 4 Jupyter notebooks with simple code examples on how to use CTE with SHAP, SAGE, Expected Gradients, and Feature Effects.
+In `examples`, we provide 4 Jupyter notebooks with simple code examples on how to use CTE to improve the estimation of SHAP, SAGE, Expected Gradients, and Feature Effects.
 
-### Advanced: experiments
+### Details: experiments
 
 In `experiments`, we provide code to reproduce the results reported in Section 4 of the paper.
 
