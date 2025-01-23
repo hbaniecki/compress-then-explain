@@ -1,7 +1,7 @@
 import subprocess
 import pandas as pd
 
-DATASETS = pd.read_csv("table2.csv")
+DATASETS = pd.read_csv("table3.csv")
 
 METHODS = [
     "compress", 

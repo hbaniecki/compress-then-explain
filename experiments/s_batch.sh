@@ -14,6 +14,6 @@ conda activate cte
 
 date
 
-python figure_5_7_8_13_15-24.py --dataset $1 --method $2 --start $3 --stop $4 --output $5
+python figure_5-7_13_15-24.py --dataset $1 --method $2 --start $3 --stop $4 --output $5
 
 date

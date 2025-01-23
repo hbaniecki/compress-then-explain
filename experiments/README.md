@@ -7,6 +7,6 @@
 
 ## run experiments
 
-- `figure_2_and_4.py`, `figure_6.py`, `figure_3_and_9-12_cte.py` & `figure_3_and_9-12_gt.py` (minus `gmsc`) can be run on a personal computer
-- results for the `gmsc` dataset in `figure_3_and_9-12_cte.py` & `figure_3_and_9-12_gt.py` may require a cluster / parallel computation
-- cluster / slurm: `s_batch.py` runs `sbatch s_batch.sh` that runs `figure_5_7_8_13_15-24.py` for each dataset-method pair
+- `figure_3_8.py`, `figure_4.py`, `figure_2_9-12_cte.py` & `figure_2_9-12_gt.py` (minus `gmsc`) can be run on a personal computer
+- results for the `gmsc` dataset in `figure_2_9-12_cte.py` & `figure_2_9-12_gt.py` may require a cluster / parallel computation
+- cluster / slurm: `s_batch.py` runs `sbatch s_batch.sh` that runs `figure_5-7_13_15-24.py` for each dataset--method pair
