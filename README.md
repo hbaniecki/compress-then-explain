@@ -14,6 +14,20 @@ In `examples`, we provide 4 Jupyter notebooks with simple code examples on how t
 
 In `experiments`, we provide code to reproduce the results reported in Section 4 of the paper.
 
+### Citation
+
+```bibtex
+@inproceedings{baniecki2025efficient,
+    title     = {Efficient and Accurate Explanation Estimation with Distribution Compression},
+    author    = {Hubert Baniecki and 
+                 Giuseppe Casalicchio and 
+                 Bernd Bischl and 
+                 Przemyslaw Biecek},
+    booktitle = {International Conference on Learning Representations},
+    year      = {2025},
+    url       = {https://openreview.net/forum?id=LiUfN9h0Lx}
+}
+```
 
 ### Acknowledgements
 
