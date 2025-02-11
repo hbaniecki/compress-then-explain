@@ -1,8 +1,8 @@
-# Efficient and accurate explanation estimation with distribution compression
+# Compress Then Explain
 
-This repository is a supplement to [the following paper](https://arxiv.org/abs/2406.18334):
+This repository is a supplement to [the following paper](https://openreview.net/forum?id=LiUfN9h0Lx):
 
-> Hubert Baniecki, Giuseppe Casalicchio, Bernd Bischl, Przemyslaw Biecek. *Efficient and Accurate Explanation Estimation with Distribution Compression*. **ICLR 2025** https://arxiv.org/abs/2406.18334
+> Hubert Baniecki, Giuseppe Casalicchio, Bernd Bischl, Przemyslaw Biecek. *Efficient and Accurate Explanation Estimation with Distribution Compression*. **ICLR 2025 (Spotlight)**
 
 ![](images/fig1.png)
 
